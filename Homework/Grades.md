@@ -3,10 +3,10 @@
 
 | Assignment | Grade |
 |------------|:-----:| 
-|Terminus |  |
-|CLI |  |
+|Terminus | 7 |
+|CLI | 8 |
 |Shell |  |  
-|Git |  |    
+|Git | 5 |    
 | CLI |  |
 | Shell |  |
 | Shell  |  | 

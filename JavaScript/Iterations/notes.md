@@ -69,7 +69,7 @@ do{
 } while (i < 3)
 '''
 
-**for...of***
+**for...of**
 Iterates by value. This is a more succinct alternative to the **for** statement explained above.
 '''javascript
 const items = ['apples', 'rice', 'soup'];
