@@ -5,7 +5,7 @@
 |------------|:-----:| 
 |Terminus | 7 |
 |CLI | 8 |
-|Shell |  |  
+|Shell | 7 |  
 |Git | 5 |    
 | CLI |  |
 | Shell |  |
