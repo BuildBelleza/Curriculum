@@ -7,9 +7,9 @@
 |CLI | 8 |
 |Shell | 7 |  
 |Git | 5 |    
-| CLI |  |
-| Shell |  |
-| Shell  |  | 
-| JS  |  |     
+| CLI | 6 |
+| Shell | 6 |
+| Shell  | 6 | 
+| JS  | 5 |     
 | Alias |  | 
 | Alias |  |
