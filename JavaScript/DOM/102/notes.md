@@ -1,5 +1,5 @@
 # DOM 102
-## Modifying the DOM comes down to learning a few motheods and properties.
+## Modifying the DOM comes down to learning a few methods and properties.
 
 ### Creating Elements
 ```javascript
