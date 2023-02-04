@@ -13,3 +13,10 @@
 | JS  | 5 |     
 | Alias |  | 
 | Alias |  |
+
+
+## Week 2 
+
+| Assignment | Grade |
+|------------|:-----:| 
+|Terminus | 7 |
