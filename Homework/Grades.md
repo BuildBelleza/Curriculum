@@ -11,8 +11,8 @@
 | Shell      | 6 |
 | Shell      | 6 | 
 | JS         | 5 |     
-| Alias      |  | 
-| Alias      |  |
+| Alias      | 8 | 
+| Alias      | 8 |
 
 
 ## Week 2 
