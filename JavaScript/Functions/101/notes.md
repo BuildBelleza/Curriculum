@@ -43,6 +43,6 @@ Uses the _function_ keyword to declare a named function. The name of the functio
 The parentheses have two purposes. One is to execute a function. Another is part of the syntax to define a function. In the former, it may contain arguments. In the later, it may contain parameters.
 
 **return**
-
+If implemented, it executes the last line of a functions code. It precedes a data type or a collection to be returned. We say that a functions closes or exits when the code that follows _return_ executes which also means that any lines beneath it are ignored.
 
 **scope**
