@@ -3,8 +3,8 @@
 Hawkins Custom Tile Website
 
 **5 Pages in the site**
-_Home_
-_About_
-_Contact_
-_Gallery_
-_Services We Offer_
+1. _Home_
+2. _About_
+3. _Contact_
+4. _Gallery_
+5. _Services We Offer_
