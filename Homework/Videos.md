@@ -1,7 +1,7 @@
 # Week 1
 
-|   Assignment   | Grade |         
-|----------------|:-----:| 
+|   Assignment   | Viewed |         
+|----------------|:------:| 
 | CLI            |  |
 | Shell Scripts  |  |
 | Git            |  |  
