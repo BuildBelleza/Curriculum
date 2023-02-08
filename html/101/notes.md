@@ -15,7 +15,7 @@ Browsers can read files or you can start a server in VS Code with **Go Live**.
 ### Some of the most common elements are listed below:
 #### semantic elements include
 
-**ul** - unordered list
+**`<ul>`** - unordered list
 
 **ol** - ordered list
 
