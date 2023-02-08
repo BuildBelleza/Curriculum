@@ -17,44 +17,44 @@ Browsers can read files or you can start a server in VS Code with **Go Live**.
 
 **`<ul>`** - unordered list
 
-**ol** - ordered list
+**`<ol>`** - ordered list
 
-**li** - list
+**`<li>`** - list
 
-**header** - the header area of a page
+**`<header>`** - the header area of a page
 
-**main** - the main area of a page
+**`<main>`** - the main area of a page
 
-**body** - contains all other rendering HTML elements
+**`<body>`** - contains all other rendering HTML elements
 
-**footer** - the footer area of a page
+**`<footer>`** - the footer area of a page
 
-**nav** - contains navigation elements
+**`<nav>`** - contains navigation elements
 
-**p** - used for single paragraphs of text
+**`<p>`** - used for single paragraphs of text
 
-**img /** - used for images    (self-closing, must have a `src` attribute)
+**`<img />`** - used for images    (self-closing, must have a `src` attribute)
 
-**a** -  anchor tag, used to hyperlink elements with the `href` attribute
+**`<a>`** -  anchor tag, used to hyperlink elements with the `href` attribute
 
-**h1** - header text (largest)
+**`<h1>`** - header text (largest)
 
-**h2** - header text ()
+**`<h2>`** - header text ()
 
-**h3** - header text ()
+**`<h3>`** - header text ()
 
-**h4** - header text ()
+**`<h4>`** - header text ()
 
-**h5** - header text ()
+**`<h5>`** - header text ()
 
-**h6** - header text (smallest)
+**`<h6>`** - header text (smallest)
 
 #### generic elements include
 
-**div** - generic containing element 
+**`<div>`** - generic containing element 
 
-**section** - defines a section for child elements
+**`<section>`** - defines a section for child elements
 
 #### tags used inside of `<head>`
 
-**link** - used to link a stylesheet, only found in the `<head>`
+**`<link>`** - used to link a stylesheet, only found in the `<head>`
