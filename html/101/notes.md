@@ -12,7 +12,7 @@ To make reading an HTML file easier, lines are nested within their parent elemen
 Browsers read HTML and, in a sense, HTML is like a big, long string.
 Browsers can read files or you can start a server in VS Code with **Go Live**.
 
-**div** - generic containing element /
+_div_ - generic containing element 
 **ul** - unordered list
 **ol** - ordered list
 **li** - list
