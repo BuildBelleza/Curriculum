@@ -17,6 +17,14 @@
 
 ## Week 2 
 
-| Assignment | Grade |
-|------------|:-----:| 
-|            |   |
+|  Assignment  | Grade |
+|--------------|:-----:| 
+| Shopping List    |   |
+| Budget           |   |
+| Friends          |   |
+| Rubik's Cube     |   |
+| Artists          |   | 
+| Months           |   |
+| Students         |   |
+| Finances         |   |
+| Red Sq Metrics   |   |
