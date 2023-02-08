@@ -28,3 +28,23 @@
 | Students         |   |
 | Finances         |   |
 | Red Sq Metrics   |   |
+
+
+## Week 3
+
+|          Assignment          | Grade |
+|------------------------------|:-----:| 
+| Sum Two Numbers              |   |
+| Custom Greeting              |   |
+| Area or Perimeter            |   |
+| Students Final Grade         |   |
+| The Feast of Many Beasts     |   | 
+| Total Amount of Points       |   |
+| Even or Odd                  |   |
+| Quarter of The Year          |   |
+| Simple Multiplication        |   |
+| Reversed Words               |   |
+| Media Queries                |   |
+| MobileNav                    |   |
+| DesktopNav                   |   |
+| ResponsiveNav                |   |
