@@ -12,7 +12,8 @@ To make reading an HTML file easier, lines are nested within their parent elemen
 Browsers read HTML and, in a sense, HTML is like a big, long string.
 Browsers can read files or you can start a server in VS Code with **Go Live**.
 
-**div** - generic containing element 
+### Some of the most common elements are listed below:
+#### semantic elements include
 
 **ul** - unordered list
 
@@ -48,6 +49,12 @@ Browsers can read files or you can start a server in VS Code with **Go Live**.
 
 **h6** - header text (smallest)
 
+#### generic elements include
+
+**div** - generic containing element 
+
 **section** - defines a section for child elements
+
+#### tags used inside of `<head>`
 
 **link** - used to link a stylesheet, only found in the `<head>`
