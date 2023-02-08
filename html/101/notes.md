@@ -19,19 +19,35 @@ Browsers can read files or you can start a server in VS Code with **Go Live**.
 **ol** - ordered list
 
 **li** - list
+
 **header** - the header area of a page
+
 **main** - the main area of a page
+
 **body** - contains all other rendering HTML elements
+
 **footer** - the footer area of a page
+
 **nav** - contains navigation elements
-**p** - used for paragraphs of text
-**img /** - used for images    (self-closing)
-**a** -  anchor tag, used to hyperlink elements
+
+**p** - used for single paragraphs of text
+
+**img /** - used for images    (self-closing, must have a `src` attribute)
+
+**a** -  anchor tag, used to hyperlink elements with the `href` attribute
+
 **h1** - header text (largest)
+
 **h2** - header text ()
+
 **h3** - header text ()
+
 **h4** - header text ()
+
 **h5** - header text ()
+
 **h6** - header text (smallest)
+
 **section** - defines a section for child elements
+
 **link** - used to link a stylesheet, only found in the `<head>`
