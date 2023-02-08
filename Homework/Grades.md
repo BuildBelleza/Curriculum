@@ -1,7 +1,7 @@
 # Homework
 ## Week 1 
 
-| Assignment | Grade |          |  Videos  |  Viewed  |
+| Assignment | Grade |         
 |------------|:-----:| 
 |Terminus    | 7 |
 |CLI         | 8 |
