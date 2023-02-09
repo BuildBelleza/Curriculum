@@ -1,6 +1,6 @@
 # Week 1
 
-|   Assignment   | Viewed |         
+|   Video Assignment   | Viewed |         
 |----------------|:------:| 
 | CLI            | 100% |
 | Shell Scripts  | 100% |
