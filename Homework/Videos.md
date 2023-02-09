@@ -16,8 +16,8 @@
 
 # Week 2
 
-|   Assignment   | Viewed |         
-|----------------|:------:| 
+|   Video Assignment   | Viewed |         
+|----------------------|:------:| 
 | HTML 101       | 100% |
 | CSS 101        | % |
 | CSS 102        | % |  
