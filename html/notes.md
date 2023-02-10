@@ -38,9 +38,13 @@ Basic format to always start off with when creating an HTML doc:
 for HTML, you can only build the form structurly, and you must use a dynamic language to provide said form with functionality.
 
 `<form action="process.php" method="POST">`<br>
-    `<label>First Name</label>`<br>
-    `<input type="text" name="firstName">`<br>
-    `<label>Last Name</lastName>`<br>
+
+    <label>First Name</label>
+    <input type="text" name="firstName">
+
+    <label>Last Name</lastName>
+    <input type="text" name="lastName">
+    
 `</form>`<br>
 
 *if you put first name in its own div and last name in its own div, they will populate onto seperate lines.
@@ -50,7 +54,6 @@ for HTML, you can only build the form structurly, and you must use a dynamic lan
 `<div>`<br>
 
     <label>Email</label>
-
     <input type="email" name="email>
 
 `</div>`<br>
