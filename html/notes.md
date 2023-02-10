@@ -34,4 +34,10 @@ Basic format to always start off with when creating an HTML doc:
     `</body>`<br>
 `</html>`<br>
 
+**Forms**
+for HTML, you can only build the form structurly, and you must use a dynamic language to provide said form with functionality.
 
+`<form action="process.php" method="POST">`<br>
+    `<label>First Name</label>`<br>
+    `<input type="text" name="first-name">`
+`</form>`<br>
