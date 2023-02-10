@@ -23,15 +23,18 @@ Note: if you include in your `<a href>  target="_blank"` then when the user clic
 
 Basic format to always start off with when creating an HTML doc:
 
-`<!DOCTYPE html>`<br>
-`<html>`<br>
-    `<head>`<br>
-        `<title></title>`<br>
-    `</head>`<br>
-    `<body>`<br>
-        `<h1></h1>`<br>
-        `<p></p>`<br>
-    `</body>`<br>
+`<!DOCTYPE html>`
+`<html>`
+
+    <head>
+        <title></title>
+    </head>
+
+    <body>
+        <h1></h1>
+        <p></p>
+    </body>
+
 `</html>`<br>
 
 **Forms**
@@ -44,7 +47,7 @@ for HTML, you can only build the form structurly, and you must use a dynamic lan
 
     <label>Last Name</lastName>
     <input type="text" name="lastName">
-    
+
 `</form>`<br>
 
 *if you put first name in its own div and last name in its own div, they will populate onto seperate lines.
