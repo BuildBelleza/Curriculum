@@ -49,10 +49,10 @@ for HTML, you can only build the form structurly, and you must use a dynamic lan
 
 `<div>`<br>
 
-    `<label>Email</label>`
+    <label>Email</label>
 
-    `<input type="email" name="email>`
-    
+    <input type="email" name="email>
+
 `</div>`<br>
 
 -all of the div for the email goes within the form tags.
