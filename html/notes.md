@@ -23,15 +23,15 @@ Note: if you include in your `<a href>  target="_blank" then when the user click
 
 Basic format to always start off with when creating an HTML doc:
 
-`<!DOCTYPE html>`
-`<html>`
-    `<head>`
-        `<title></title>`
-    `</head>`
-    `<body>`
-        `<h1></h1>`
-        `<p></p>`
-    `</body>`
-`</html>`
+`<!DOCTYPE html>`<br>
+`<html>`<br>
+    `<head>`<br>
+        `<title></title>`<br>
+    `</head>`<br>
+    `<body>`<br>
+        `<h1></h1>`<br>
+        `<p></p>`<br>
+    `</body>`<br>
+`</html>`<br>
 
 
