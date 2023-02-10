@@ -43,7 +43,7 @@ for HTML, you can only build the form structurly, and you must use a dynamic lan
     `<label>Last Name</lastName>`<br>
 `</form>`<br>
 
-if you put first name in its own div and last name in its own div, they will populate onto seperate lines.
+*if you put first name in its own div and last name in its own div, they will populate onto seperate lines.
 
 for email form field, it would be its own div also and would look like this:
 
