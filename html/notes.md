@@ -58,11 +58,86 @@ for HTML, you can only build the form structurly, and you must use a dynamic lan
 `<div>`<br>
 
     <label>Email</label>
-    <input type="email" name="email>
+    <input type="email" name="email" placeholder="Enter email here.">
 
 `</div>`<br>
 
 -all of the div for the email goes within the form tags.
+
+_for a message component of this form_
+
+`<div>`
+
+    <label>Message</label>
+    <textarea name="message"></textarea>
+
+`</div>`
+
+_for a select list_
+
+`<div>`
+
+    <label>Gender</label>
+    <select name="gender">
+        <option value="male">Male</option>
+        <option value="female">Female</option>
+        <option value="other">Other</option>
+    </select>
+
+`</div>`
+
+**Other form field div sections include:**
+
+`<div>`<br>
+
+    <label>Age</label>
+    <input type="number" name="age">
+
+`</div>`<br>
+
+`<div>`<br>
+
+    <label>Birthday</label>
+    <input type="date" name="birthday">
+
+`</div>`<br>
+
+**Input/Submit Button**
+
+`<input type="submit" name="submit" value="Submit">`
+
+_Buttons outside of forms_
+
+`<button> Click Me </button>`
+
+_Images_
+
+`<img src="images/sample.jpg" alt="My Sample Image" width="200">`
+
+-have an images folder for all images on site
+
+
+**Semantic Tags**
+
+`<header>`
+
+`<footer>`
+
+`<aside>` side bar content
+
+`<main>`
+
+`<article>`
+
+`<nav>`  navigation bar
+
+`<section>`
+
+`<details>`
+
+
+
+
 
 
 
