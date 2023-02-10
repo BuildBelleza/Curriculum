@@ -17,7 +17,7 @@ Examples:
 Other elements include `<strong>` `<em>`
 
 **Links**
-Surround the words you wish to be a clickable link with `<a href="location the click should send the user">`
+Surround the words you wish to be a clickable link with <a href="location the click should send the user">
 
 Note: if you include in your `<a href>  target="_blank" then when the user clicks the link, it will open up the location/page in a new browser tab. (Primarily used if it is leading to an external site source)
 
