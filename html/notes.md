@@ -24,6 +24,7 @@ Note: if you include in your `<a href>  target="_blank"` then when the user clic
 Basic format to always start off with when creating an HTML doc:
 
 `<!DOCTYPE html>`
+
 `<html>`
 
     <head>
