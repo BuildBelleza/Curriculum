@@ -5,36 +5,59 @@
   body {
     font-family: sans-serif;
     font-size: 3rem;
-    background-color: #6c6461;
   }
   
-  .container {
+  .containerS {
+    display: flex;
+    width: 440px;
+    border-color: #6c6461;
+    border-style: solid;
+    flex-wrap: nowrap;
+    border-width: 20px;
+    
+  }
+  
+  .containerOne {
+    border-right-color: #6c6461;
+    border-right-style: solid;
+    border-right-width: 20px;
+    width: 400px;
+  }
+
+  .containerTwo {
     display: flex;
     flex-wrap: wrap;
-    align-content: space-around;
-    
+    flex-basis: 33.3%;
+    background-color: #72d5b4;
+    width: 400px;
 
   }
-  
+
   .box {
     background-color: #72d5b4;
-    height: 150px;
-    text-align: center;
-    width: 100px;
+    height: 400px;
+    width: 400px;
+    ;
+    
   }
   
   .boxb {
     background-color: #72d5b4;
+    width: 400px;
+    
   }
 
   .boxc {
     background-color: #72d5b4;
+    width: 200px;
   }
 
   .boxd {
     background-color: #72d5b4;
+    width: 200px;
   }
 
-  .boxb {
+  .boxe {
     background-color: #72d5b4;
+    width: 400px;
   }
