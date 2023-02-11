@@ -54,14 +54,14 @@
 
 |   Assignment   | Grade |         
 |----------------|:-----:| 
-|  If you can't sleep, just count sheep!      | % |
-|  90's Style Website      | % |
-|  Desktop Nav via DOM      | % |
-|  Flexbox Froggy      | % |
-|  Flexbox Layout 1      | % |
-|  Flexbox Layout 2      | % |
-|  Flexbox Layout 3      | % |
-|  Flexbox Layout 4      | % |
+|  If you can't sleep, just count sheep!      |  |
+|  90's Style Website      |  |
+|  Desktop Nav via DOM      |  |
+|  Flexbox Froggy      | 10 |
+|  Flexbox Layout 1      |  |
+|  Flexbox Layout 2      |  |
+|  Flexbox Layout 3      |  |
+|  Flexbox Layout 4      |  |
 |        | % |
 |        | % |
 |        | % |

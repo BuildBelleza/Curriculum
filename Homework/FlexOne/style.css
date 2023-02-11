@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: sans-serif;
+    font-size: 3rem;
+    background-color: #6c6461;
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-around;
+    
+
+  }
+  
+  .box {
+    background-color: #72d5b4;
+    height: 150px;
+    text-align: center;
+    width: 100px;
+  }
+  
+  .boxb {
+    background-color: #72d5b4;
+  }
+
+  .boxc {
+    background-color: #72d5b4;
+  }
+
+  .boxd {
+    background-color: #72d5b4;
+  }
+
+  .boxb {
+    background-color: #72d5b4;
+  }
