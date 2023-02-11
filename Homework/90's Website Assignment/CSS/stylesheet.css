@@ -1,4 +1,11 @@
 
-#main-header
-{background: #D0E4F5 url("https://iili.io/HEck50v.md.jpg") no-repeat scroll 0 0;
-    }
+.gallery {
+    background-color: black;
+    display: flex;
+    height: 150px;
+    flex-basis: 25%;
+    justify-content: center;
+    align-items: center;
+    
+}
+}
