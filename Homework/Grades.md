@@ -55,8 +55,8 @@
 |   Assignment   | Grade |         
 |----------------|:-----:| 
 |  If you can't sleep, just count sheep!      | % |
-|        | % |
-|        | % |
+|  90's Style Website      | % |
+|  Desktop Nav via DOM      | % |
 |        | % |
 |        | % |
 |        | % |
