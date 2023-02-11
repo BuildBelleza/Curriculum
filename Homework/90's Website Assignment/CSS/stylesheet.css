@@ -2,10 +2,14 @@
 .gallery {
     background-color: black;
     display: flex;
-    height: 150px;
-    flex-basis: 25%;
     justify-content: center;
-    align-items: center;
-    
+    flex-direction:row;
+
 }
+
+.what {
+    background-color: black;
+    display: flex;
+    height: 150px;
+    justify-content: center;
 }
