@@ -1,19 +1,17 @@
-* {
-    box-sizing: border-box;
-  }
+
   
   body {
+    
+    
     font-family: sans-serif;
     font-size: 3rem;
   }
   
   .containerS {
     display: flex;
-    border-color: #6c6461;
-    border-style: solid;
-    flex-wrap: nowrap;
-    border-width: 20px;
-    width: 942px;
+    flex-direction: column;
+    flex-wrap: wrap;
+    flex-basis: 100%;
     
   }
   
