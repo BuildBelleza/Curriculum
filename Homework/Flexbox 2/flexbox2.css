@@ -1,18 +1,8 @@
-* {
-    font-family: 'Times New Roman', Times, serif;
-    margin: 0;
-    padding: 0;
-}
 
-body,
-html{
-    font-family:'Times New Roman', Times, serif;
-    height:100%;
-    width: 100%;
-}
 
-.flexbox-container{
+.flex-container{
     display: flex;
-    
+    margin: 0px;
+    border-color: #00a4e6;
+    border-width: 2em;
 }
-
