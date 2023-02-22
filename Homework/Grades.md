@@ -62,9 +62,6 @@
 |  Flexbox Layout 2      |  |
 |  Flexbox Layout 3      |  |
 |  Flexbox Layout 4      |  |
-|        |  |
-|        |  |
-|        |  |
 
 
 # Week 5
@@ -72,23 +69,23 @@
 |   Assignment   | Grade |         
 |----------------|:-----:| 
 | Flexbox 10       | 10 |
-| Flexbox 11       | 10 |
-| Flexbox 12       | 10 |
-|        |  |
-|        |  |
-|        |  |
-|        |  |
-|        |  |
-|        |  |
-|        |  |
-|        |  |
+| Flexbox 11       |  |
+| Flexbox 12       |  |
+| Desktop Nav 2       |  |
+| Flexbox Layout 5       |  |
+| Flexbox Layout 6       |  |
+| Cards 1       |  |
+| Toggle 1       |  |
+| Quiz 1       |  |
+| Flexbox Layout 7       |  |
+| Flexbox Layout 8       |  |
 
 
 # Week 6
 
 |   Assignment   | Grade |         
 |----------------|:-----:| 
-|        |  |
+| Progress Tracker       |  |
 |        |  |
 |        |  |
 |        |  |
