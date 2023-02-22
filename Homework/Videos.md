@@ -64,9 +64,9 @@
 | Flexbox Layout 7        | % |
 | Flexbox Layout 8       | % |
 | API 101       | 100% |
-| API 102       | % |
-| API 201       | % |
-| API 202       | % |
+| API 102       | 100% |
+| API 201       | 100% |
+| API 202       | 100% |
 | API 203       | % |
 |        | % |
 |        | % |
