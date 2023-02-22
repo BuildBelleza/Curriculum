@@ -1,0 +1,24 @@
+.progress {
+    column-gap: 10px;
+    display: flex;
+}
+
+.progress div {
+    background-color: darksalmon;
+    height: 25px;
+    flex: 1;
+}
+
+.progress div.active {
+    background-color:darkslateblue;
+
+}
+
+main {
+    text-align: center;
+}
+
+.view {
+    font-size: 4rem;
+    margin: 25px 0;
+}
