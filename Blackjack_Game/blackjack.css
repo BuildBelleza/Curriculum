@@ -1,0 +1,40 @@
+body {
+   
+    text-align:center;
+    display:run-in;
+}
+
+@font-face {
+    font-family: Therebemonsters;
+    src: url(./js-hw-blackjack-exercise/Therebemonsters.otf);
+}
+
+.dealer-cards img{
+    height: 75px;
+    width: 25px;
+    margin: 1px;
+}
+
+#your-cards img{
+    height: 75px;
+    width: 25px;
+    margin: 1px;
+}
+
+#deal {
+    height: 40px;
+    width: 120px;
+    font-size: 22px;
+}
+
+#stand {
+    height: 40px;
+    width: 120px;
+    font-size: 22px;
+}
+
+#hit {
+    height: 40px;
+    width: 120px;
+    font-size: 22px;
+}
