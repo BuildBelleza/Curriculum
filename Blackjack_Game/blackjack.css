@@ -6,7 +6,7 @@ body {
 
 @font-face {
     font-family: Therebemonsters;
-    src: url(./js-hw-blackjack-exercise/Therebemonsters.otf);
+    src: url(./Blackjack_Game/Therebemonsters.otf);
 }
 
 .dealer-cards img{
