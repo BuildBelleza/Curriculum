@@ -4,13 +4,13 @@
 }
 
 .progress div {
-    background-color: darksalmon;
+    background-color: blue;
     height: 25px;
     flex: 1;
 }
 
 .progress div.active {
-    background-color:darkslateblue;
+    background-color: red;
 
 }
 
