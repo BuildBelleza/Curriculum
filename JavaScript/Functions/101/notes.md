@@ -1,6 +1,8 @@
 # Javascript  Functions 101
 ## A general overview
 
+**Any and all functions, in any language you use, does 2 things. It either returns something, or it does something (and doesn't return anything).**
+
 ### Terms
 
 **anonymous function**
