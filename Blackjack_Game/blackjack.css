@@ -4,10 +4,7 @@ body {
     display:run-in;
 }
 
-@font-face {
-    font-family: Therebemonsters;
-    src: url(./Blackjack_Game/Therebemonsters.otf);
-}
+
 
 .dealer-cards img{
     height: 75px;
