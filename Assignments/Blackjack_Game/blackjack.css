@@ -7,14 +7,14 @@ body {
 
 
 #dealer-cards img{
-    height: 75px;
-    width: 25px;
+    height: 275px;
+    width: auto;
     margin: 1px;
 }
 
 #your-cards img{
-    height: 75px;
-    width: 25px;
+    height: 275px;
+    width: auto;
     margin: 1px;
 }
 
