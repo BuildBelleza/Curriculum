@@ -9,4 +9,9 @@ body {
     background-image: url("https://iili.io/HEOxW12.md.jpg");
 }
 
+.gallery {
+    height: 400px;
+    width: auto;
+}
+
 
