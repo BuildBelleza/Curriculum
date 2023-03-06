@@ -11,3 +11,6 @@ A keyword we use to prefix the name of the function which calls async code and i
 
 **`catch`**
 A method chained to the response object to which we supply a callback function to handle errors.
+
+### Snippets
+See index.js
