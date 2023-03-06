@@ -27,7 +27,7 @@ function buildDeck() {
     return deck;
 }
 
-const deck = buildDeck()
+const deck = buildDeck();
 
 const dealButton = document.getElementById('deal');
 
