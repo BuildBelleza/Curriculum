@@ -1,56 +1,54 @@
 body {
-    background-image: src("images/_instructions-1.png");
-    text-align:center;
+  background-image: src("images/_instructions-1.png");
+  text-align: center;
 }
 
-
-
-#dealer-cards img{
-    height: 275px;
-    width: auto;
-    margin: 1px;
+#dealer-cards img {
+  height: 275px;
+  width: auto;
+  margin: 1px;
 }
 
-#your-cards img{
-    height: 275px;
-    width: auto;
-    margin: 1px;
+#your-cards img {
+  height: 275px;
+  width: auto;
+  margin: 1px;
 }
 
 #deal {
-    height: 40px;
-    width: 120px;
-    font-size: 22px;
+  height: 40px;
+  width: 120px;
+  font-size: 22px;
 }
 
 #stand {
-    height: 40px;
-    width: 120px;
-    font-size: 22px;
+  height: 40px;
+  width: 120px;
+  font-size: 22px;
 }
 
 #hit {
-    height: 40px;
-    width: 120px;
-    font-size: 22px;
+  height: 40px;
+  width: 120px;
+  font-size: 22px;
 }
 
 #new {
-    height: 40px;
-    width: 120px;
-    font-size: 22px;
+  height: 40px;
+  width: 120px;
+  font-size: 22px;
 }
 
 .table {
-    display: flex;
-    flex-direction: column;
-    width: 900px;
-    max-width: calc(100% - 20px);
-    border: 8px solid rgb(10, 43, 2);
-    border-radius: 20px;
-    background: rgb(22, 77, 8);
-    margin: 0 auto;
-    color: white;
-    padding: 30px;
-    background-image: src("images/_instructions-1.png");
-  }
+  display: flex;
+  flex-direction: column;
+  width: 900px;
+  max-width: calc(100% - 20px);
+  border: 8px solid rgb(10, 43, 2);
+  border-radius: 20px;
+  background: rgb(22, 77, 8);
+  margin: 0 auto;
+  color: white;
+  padding: 30px;
+  background-image: src("images/_instructions-1.png");
+}
