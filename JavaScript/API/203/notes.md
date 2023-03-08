@@ -1,4 +1,5 @@
 # API 203
+
 ## `async`/`await` handles asynchronous data with a syntax that is fairly easy to read
 
 ### Terms
@@ -13,4 +14,5 @@ A keyword we use to prefix the name of the function which calls async code and i
 A method chained to the response object to which we supply a callback function to handle errors.
 
 ### Snippets
+
 See index.js
