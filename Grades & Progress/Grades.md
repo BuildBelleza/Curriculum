@@ -81,15 +81,15 @@
 
 | Assignment       | Grade |
 | ---------------- | :---: |
-| Progress Tracker |       |
+| Progress Tracker |   6   |
 | Blackjack Game   |   6   |
 
 # Week 7
 
 | Assignment | Grade |
 | ---------- | :---: |
-| Dog CEO 1  |       |
-| Dog CEO 2  |       |
+| Dog CEO 1  |  10   |
+| Dog CEO 2  |   9   |
 | Dog CEO 3  |       |
 | Dog CEO 4  |       |
 
@@ -97,8 +97,8 @@
 
 | Assignment | Grade |
 | ---------- | :---: |
-|            |       |
-|            |       |
+| Dog CEO 4c |       |
+| Dog CEO 4d |       |
 |            |       |
 |            |       |
 |            |       |
