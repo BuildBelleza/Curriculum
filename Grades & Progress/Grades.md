@@ -95,19 +95,19 @@
 
 # Week 8
 
-| Assignment | Grade |
-| ---------- | :---: |
-| Dog CEO 4c |       |
-| Dog CEO 4d |       |
-|            |       |
-|            |       |
-|            |       |
-|            |       |
-|            |       |
-|            |       |
-|            |       |
-|            |       |
-|            |       |
+| Assignment                | Grade |
+| ------------------------- | :---: |
+| Dog CEO 4c                |       |
+| Dog CEO 4d                |       |
+| Dog CEO 4e                |       |
+| A wolf in sheeps clothing |       |
+|                           |       |
+|                           |       |
+|                           |       |
+|                           |       |
+|                           |       |
+|                           |       |
+|                           |       |
 
 # Week 9
 
