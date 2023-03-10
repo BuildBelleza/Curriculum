@@ -90,7 +90,7 @@
 | ---------- | :---: |
 | Dog CEO 1  |  10   |
 | Dog CEO 2  |   9   |
-| Dog CEO 3  |       |
+| Dog CEO 3  |   6   |
 | Dog CEO 4  |       |
 
 # Week 8
@@ -100,7 +100,7 @@
 | Dog CEO 4c                |       |
 | Dog CEO 4d                |       |
 | Dog CEO 4e                |       |
-| A wolf in sheeps clothing |       |
+| A wolf in sheeps clothing |   5   |
 |                           |       |
 |                           |       |
 |                           |       |
