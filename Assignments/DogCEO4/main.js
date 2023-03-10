@@ -6,4 +6,4 @@ randomDogs.addEventListener("click", () => {
     .then((data) => console.log(data.message));
 });
 
-console.log(randomDogs);
+// console.log(randomDogs);
