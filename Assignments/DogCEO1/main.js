@@ -1,27 +1,27 @@
-// const getData = async () => {
-//   // function declaration - declaring some variables *hit Matt with articulation of what this is doing exactly.
-//   await fetch("https://dog.ceo/api/breeds/list/all");
+// const fetchPromise = fetch("https://dog.ceo/api/breeds/image/random");
 
-//   //is this the interpolation? answer=no  response is = to await x.json()  await is essentially meaning...we are having to use this because are we waiting for the server side to parse the data to json? Which is the promise...in essence...?
+// console.log(fetchPromise);
 
-//   console.log(getData);
-
-//   // return is 'caching' (or preserving it for later use) the data returned for use later
+// const getAllBreeds = async () => {
+//   const x = await fetch("https://dog.ceo/api/breeds/image/random");
+//   const response = await x.json();
+//   const data = response.message;
+//   // return data;
+//   console.log(data);
 // };
 
-// async () => {
-//   await fetch("https://dog.ceo/api/breeds/list/all");
-// };
+const fetchPromise = fetch("https://dog.ceo/api/breeds/image/random")
+  .then((response) => response.json())
+  .then((data) => console.log(data));
+// // console.log(data);
+// // console.log(fetchPromise);
 
-// console.log(fetch);
+// // async
 
-const randomDogs = document.getElementById("dogs");
+// fetchPromise.then((response) => {
+//   console.log(response, URL);
+// });
 
-function result() {
-  fetch("https://dog.ceo/api/breeds/list/all").then((response) =>
-    response.json()
-  );
-}
+//   function url ('https//dog.ceo/api/breeds/image/random');
 
-getresult();
-console.log(result);
+// const

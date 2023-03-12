@@ -1,6 +1,6 @@
-// fetch("https://dog.ceo/api/breeds/list/all")
-//   .then((response) => response.json())
-//   .then((data) => console.log(data));
+fetch("https://dog.ceo/api/breeds/list/all")
+  .then((response) => response.json())
+  .then((data) => console.log(data));
 
 const getData = async () => {
   // function declaration - declaring some variables *hit Matt with articulation of what this is doing exactly.
