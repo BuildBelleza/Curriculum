@@ -16,3 +16,5 @@ A method chained to the response object to which we supply a callback function t
 ### Snippets
 
 See index.js
+
+Was created to better the process of handling processes.

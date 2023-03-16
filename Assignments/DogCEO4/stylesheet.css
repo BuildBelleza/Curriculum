@@ -19,6 +19,9 @@ button {
   background-image: url("https://iili.io/HXo9atV.png") no-repeat;
   border: 0;
 }
-*/ li {
-  list-style: none;
+
+p {
+  font-weight: bolder;
+  font-size: 30px;
+  background: white;
 }
