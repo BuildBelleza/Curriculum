@@ -2,6 +2,7 @@ const shoppingList = ["apples", "biscuits", "cabbage", "dip"];
 const isCode200 = () => Math.random() >= 0.5;
 
 function getData() {
+  fetch;
   return new Promise((resolve, reject) => {
     setTimeout(() => {
       if (isCode200()) {
