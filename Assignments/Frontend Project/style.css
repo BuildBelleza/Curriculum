@@ -10,4 +10,11 @@ h2 {
 body {
   background-image: url("background.png");
   background-position: center;
+  background-repeat: no-repeat;
+}
+
+#nav {
+  text-align: center;
+  place-items: center;
+  position: relative;
 }
