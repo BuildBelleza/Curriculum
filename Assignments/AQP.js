@@ -1,4 +1,6 @@
-const artwork = ["https://api.artic.edu/api/v1/artworks/search?query[term][is_public_domain]=true&limit=2&fields=id,title,image_id"];
+const artwork = [
+  "https://api.artic.edu/api/v1/artworks/search?query[term][is_public_domain]=true&limit=2&fields=id,title,image_id",
+];
 const blindArt = () => Math.random() >= 0.5;
 
 function getData() {
@@ -7,7 +9,7 @@ function getData() {
       if (blindArt()) {
         resolve(artwork);
       } else {
-        reject('There was a problem with the server, please try again.');
+        reject("There was a problem with the server, please try again.");
       }
     }, 500);
   });
@@ -16,7 +18,7 @@ function getData() {
 function getRandomIntInclusive(min, max) {
   min = Math.ceil();
   max = Math.floor();
-  return Math.floor(Math.random() * 40) + 1);
+  return Math.floor(Math.random() * 40) + 1;
 }
 
 async function getArtwork() {
