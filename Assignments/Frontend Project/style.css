@@ -9,13 +9,13 @@ h1,
 h3 {
   text-align: center;
 }
-body {
+/* body {
   /* background-image: url("background.png"); */
   /* background-position: center; */
-  background-repeat: repeat;
+  /* background-repeat: repeat;
   background-image: "/background.jpg";
   height: 100%;
-}
+/* } */ 
 
 
 #logo {
@@ -36,3 +36,24 @@ body {
   
 }
 
+.container {
+  margin: auto;
+  width: 830px; 
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+}
+
+.item {
+  background-color: darkgray;
+  width: 200px;
+  height: 200px;
+  margin-bottom: 1%; /* (100-32*3)/2 */
+  position: relative;
+  gap: auto;
+  
+ 
+}
