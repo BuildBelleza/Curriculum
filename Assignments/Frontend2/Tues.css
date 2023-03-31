@@ -1,0 +1,18 @@
+/*add border around each name looking like cards in 4 rows of 5*/
+
+.app {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  width: 750px;
+}
+
+.app div {
+  border-style: solid;
+  border-color: blueviolet;
+  flex-basis: 18%;
+  min-width: 25px;
+  padding-top: 60px;
+  padding-bottom: 80px;
+  text-align-last: center;
+}
