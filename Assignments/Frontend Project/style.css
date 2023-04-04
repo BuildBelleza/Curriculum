@@ -16,9 +16,7 @@ body {
   background-repeat: repeat;
   background-image: "/background.jpg";
   height: 100%;
- }
-
-
+}
 
 #logo {
   position: absolute;
@@ -30,17 +28,15 @@ body {
   background-repeat: no-repeat;
 }
 
-
 #nav {
   text-align: center;
   place-items: center;
   position: bottom-center;
-  
 }
 
 .container {
   margin: auto;
-  width: 830px; 
+  width: 830px;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -56,8 +52,6 @@ body {
   margin-bottom: 1%; /* (100-32*3)/2 */
   position: relative;
   gap: auto;
-  
- 
 }
 
 #button {
@@ -68,4 +62,29 @@ body {
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+/*add border around each name looking like cards in 4 rows of 5*/
+
+.app {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  width: 750px;
+}
+
+.app div {
+  border-style: solid;
+  border-color: blueviolet;
+  background-color: grey;
+  cursor: pointer;
+  flex-basis: 18%;
+  min-width: 25px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.card.active {
+  background-color: red;
 }
