@@ -1,19 +1,40 @@
 /*add border around each name looking like cards in 4 rows of 5*/
+body {
+  background-image: url("https://iili.io/HO1Y99I.md.jpg");
+  background-repeat: no-repeat;
+  background-color: goldenrod;
+  background-size: cover;
+  text-align: center;
+}
 
 .app {
   display: flex;
   flex-wrap: wrap;
-  gap: 4px;
+  gap: 6px;
   width: 750px;
-}
-
-.app div {
   border-style: solid;
-  border-color: blueviolet;
-  background-color: grey;
+  border-spacing: 2pt;
+  border-width: 3pt;
+  border-color: rgb(3, 32, 249);
+  background-color: white;
   cursor: pointer;
   flex-basis: 18%;
-  min-width: 25px;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+.app div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  width: 750px;
+  border-style: double;
+  border-width: 10pt;
+  border-color: rgb(3, 32, 249);
+  background-color: red;
+  cursor: pointer;
+  flex-basis: 18%;
+  min-width: 50px;
   padding-top: 80px;
   padding-bottom: 80px;
   text-align: center;
@@ -21,4 +42,31 @@
 
 .card.active {
   background-color: red;
+}
+
+h1,
+h3 {
+  display: inline-block;
+  text-align: center;
+}
+
+button {
+  vertical-align: bottom;
+  text-align: center;
+  background-color: rgb(254, 254, 254);
+  color: white;
+  border-radius: 5px;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  color: white;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+div {
+  text-align: center;
 }
