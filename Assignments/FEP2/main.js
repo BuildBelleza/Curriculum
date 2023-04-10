@@ -36,7 +36,7 @@
 const app = document.getElementById("app"); //we are caching the element so we can attach to the DOM
 
 const appCard = document.getElementById("appCard");
-const appCard1 = document.getElementById("appCard");
+const appCard1 = document.getElementByClassName("appCard1");
 const appCard2 = document.getElementById("appCard");
 const appCard3 = document.getElementById("appCard");
 const appCard4 = document.getElementById("appCard");
