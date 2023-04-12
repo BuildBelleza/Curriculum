@@ -6,4 +6,4 @@ const options = {
 };
 
 dns.lookup('google.com', options, (err, address, family) => 
-    console.log('address: %j family: IPv%5, address, family)'));
+    console.log('address: %j family: IPv%5', address, family));
