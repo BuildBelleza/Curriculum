@@ -17,7 +17,15 @@
 ### Import
 
 ```javascript
-const someModule = requiren
+const someModule = require('someModule');
+```
 
 ### Export
+
+```javascript
+function someFunctions() {
+    // code here
+}
+
+module.exports = someFunction;
 ```
