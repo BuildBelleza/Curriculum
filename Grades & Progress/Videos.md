@@ -60,21 +60,27 @@
 
 # Week 7
 
-# Week 8
+# Week 12
 
 | Video Assignment | Viewed |
 | ---------------- | :----: |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
+| NodeJS 103       |   100%    |
+| NodeJS 104       |   100%    |
+| NodeJS 105       |   100%    |
+
+# Week 13
+
+| Video Assignment | Viewed |
+| ---------------- | :----: |
+| Nodejs 106       |   100%    |
+| Server 101       |   100%    |
+| NodeJS 201       |   100%    |
+| Server 102       |   100%    |
+| API 302          |   %    |
+| API 303          |   %    |
+| API 304          |   %    |
+| API 305          |   %    |
+| Server 103       |   %    |     
 
 # Week 9
 
