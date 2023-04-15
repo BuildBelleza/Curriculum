@@ -1,0 +1,15 @@
+{
+  "name": "grouptask",
+  "version": "1.0.0",
+  "description": "group task to complete together",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Camilla Wilson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "package.json": "^2.0.1"
+  }
+}
