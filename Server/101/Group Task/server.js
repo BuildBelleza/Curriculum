@@ -1,8 +1,8 @@
-// const http = require('http');
-// const fs = require('fs');
+const http = require('http');
+const fs = require('fs');
 
-// const hostname = '127.0.0.1';
-// const port = 8080;
+const hostname = '127.0.0.1';
+const port = 8080;
 // node
 // fs.readFile('index.html', (err, html) => {
 //     if(err){
@@ -27,6 +27,7 @@ const express = require('express');
 
 const server = express();
 
+
 /* `server.get('/names', (req, res) => {...})` is defining a route for the server using the HTTP GET
 method. When a GET request is made to the `/names` endpoint, the server will respond with a JSON
 object containing two key-value pairs: "First Name" with a value of "Anna" and "Second Name" with a
@@ -41,7 +42,8 @@ server.get("/mvps/:year", (req, res) => {
     res.send(`mvps ${req.params.year}`)
 })
 
-server.get('/blah', (req, res) => {
+server.get('/api/mvp/:player', (req, res) => {
+    const {player} = req.params;
     res.send('hello');
 });
 
