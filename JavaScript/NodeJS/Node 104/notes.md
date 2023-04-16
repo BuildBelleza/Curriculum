@@ -17,14 +17,14 @@
 ### Import
 
 ```javascript
-const someModule = require('someModule');
+const someModule = require("someModule");
 ```
 
 ### Export
 
 ```javascript
 function someFunctions() {
-    // code here
+  // code here
 }
 
 module.exports = someFunction;
