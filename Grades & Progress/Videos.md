@@ -13,6 +13,7 @@
 | JS 201           |  100%  |
 | JS 301           |  100%  |
 
+<br>
 # Week 2
 
 | Video Assignment | Viewed |
@@ -27,6 +28,7 @@
 | HTML 106         |  100%  |
 | Functions 101    |  100%  |
 
+<br>
 # Week 3
 
 | Video Assignment | Viewed |
@@ -37,12 +39,16 @@
 | DOM 101          |  100%  |
 | DOM 102          |  100%  |
 
+<br>
+
 # Week 4
 
 | Video Assignment | Viewed |
 | ---------------- | :----: |
 | CSS 104          |  100%  |
 | CSS 201          |  100%  |
+
+<br>
 
 # Week 5
 
@@ -56,31 +62,35 @@
 | API 202          |  100%  |
 | API 203          |  100%  |
 
-# Week 6
-
-# Week 7
+<br>
 
 # Week 12
 
 | Video Assignment | Viewed |
 | ---------------- | :----: |
-| NodeJS 103       |   100%    |
-| NodeJS 104       |   100%    |
-| NodeJS 105       |   100%    |
+| NodeJS 103       |  100%  |
+| NodeJS 104       |  100%  |
+| NodeJS 105       |  100%  |
+
+<br>
 
 # Week 13
 
 | Video Assignment | Viewed |
 | ---------------- | :----: |
-| Nodejs 106       |   100%    |
-| Server 101       |   100%    |
-| NodeJS 201       |   100%    |
-| Server 102       |   100%    |
-| API 302          |   100%    |
-| API 303          |   100%    |
-| API 304          |   100%    |
-| API 305          |   100%    |
-| Server 103       |   100%    |     
+| Nodejs 106       |  100%  |
+| Server 101       |  100%  |
+| NodeJS 201       |  100%  |
+| Server 102       |  100%  |
+| API 302          |  100%  |
+| API 303          |  100%  |
+| API 304          |  100%  |
+| API 305          |  100%  |
+| Server 103       |  100%  |
+| Server 201       |  100%  |
+| Server 202       |  100%  |
+
+<br>
 
 # Week 14
 
