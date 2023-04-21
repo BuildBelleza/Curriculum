@@ -6,5 +6,6 @@
   "prettier.useEditorConfig": false,
   "prettier.configPath": ".prettierrc.json",
   "editor.fontSize": 18,
-  "files.saveConflictResolution": "overwriteFileOnDisk"
+  "files.saveConflictResolution": "overwriteFileOnDisk",
+  "liveServer.settings.port": 5501
 }

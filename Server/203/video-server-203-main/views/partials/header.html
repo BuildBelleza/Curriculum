@@ -1,3 +1,7 @@
 <header>
-  <div class="y-wrap">I am the header</div>
+  <nav class="navs-container">
+    ${navs.map(nav => `
+    <a href="${nav.href}" class="navs-item">${nav.text}</a>
+    `).join('')}
+  </nav>
 </header>

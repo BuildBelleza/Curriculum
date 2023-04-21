@@ -35,3 +35,9 @@ main {
   flex-direction: column;
   height: 100%;
 }
+
+navs-container {
+  display: flex;
+  flex-direction: row;
+  color: crimson;
+}
