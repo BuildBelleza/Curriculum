@@ -1,18 +1,25 @@
 *,
 body {
+  box-sizing: border-box;
+  padding-left: 20px;
   max-width: 375px;
+  /* background-color: #ffffff; */
+  /* font-family: Roboto, Light; */
+  color: #ffffff;
+  font-size: 18px;
+  min-height: auto;
 }
 
 header {
   background-color: hsl(215, 47%, 61%);
+  color: hsl(0, 0%, 99%, 50%);
   max-height: 75px;
   max-width: 375px;
   align-items: right;
-  padding-left: 150px;
+  padding-left: 105px;
   padding-top: 20px;
   padding-bottom: 20px;
-  color: #fdfdfd (50%);
-  font-family: Roboto, Light, sans-serif;
+  font-family: Roboto, Light;
   font-size: 24px;
 }
 
@@ -21,45 +28,59 @@ body {
   font-family: Roboto Light;
   color: #4d4d4d;
   font-size: 18px;
+  /* margin-left: 40px; */
   padding-left: 20px;
+  max-width: 375px;
 }
-
+p {
+  font-family: Roboto Light;
+  color: #4d4d4d;
+  font-size: 18px;
+  padding-left: 20px;
+  max-width: 375px;
+}
 h1 {
-  font-family: Libre Baskerville Bold;
+  font-family: Libre Baskerville, Bold;
   font-size: 24px;
   color: #4d4d4d;
+  padding-left: 20px;
+  max-width: 375px;
 }
 
 h2 {
   font-family: Libre Baskerville Bold;
-  font-size: 21px;
+  font-size: px;
   color: #4d4d4d;
 }
 
 footer {
   background-color: #31535e;
-  color: #fdfdfd;
+  color: hsl(0, 0%, 99%, 50%);
   font-family: Roboto Light;
   font-size: 14px;
-  height: 75px;
+  max-height: 75px;
+  margin-top: -15px;
+  padding-left: 115px;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 navs-container {
   color: #fdfdfd;
   font-family: Roboto, Light;
-  font-size: 24px;
+  font-size: 18px;
   padding-left: 45px;
   margin-left: 45px;
 }
 
-navs-items {
+/* navs-items {
   color: #fdfdfd;
   font-family: Roboto, Light;
   font-size: 18px;
-  padding-left: 45px;
+  padding-left: 5px;
 
   /* margin-left: 45px; */
-}
+/* } */
 
 li {
   color: #4d4d4d;
