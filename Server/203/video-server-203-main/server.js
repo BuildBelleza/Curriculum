@@ -16,8 +16,7 @@ server.get("/", (req, res) => {
   res.render("index", {
     locals: {
       title: "Video Server 203",
-      navs,
-      blah: {},
+      navs
     },
     partials: {
       footer: "partials/footer",
@@ -27,17 +26,58 @@ server.get("/", (req, res) => {
   });
 });
 
+server.get("/contact-us", (req, res) => {
+  res.render("index", {
+    locals: {
+      title: "Video Server 203",
+      navs
+    },
+    partials: {
+      footer: "partials/footer",
+      header: "partials/header",
+      main: "partials/main/contact-us",
+    },
+  });
+});
+
 server.get("/gallery", (req, res) => {
   res.render("index", {
     locals: {
       title: "Video Server 203",
-      navs,
-      blah: {},
+      navs
     },
     partials: {
       footer: "partials/footer",
       header: "partials/header",
       main: "partials/main/gallery",
+    },
+  });
+});
+
+server.get("/about", (req, res) => {
+  res.render("index", {
+    locals: {
+      title: "Video Server 203",
+      navs
+    },
+    partials: {
+      footer: "partials/footer",
+      header: "partials/header",
+      main: "partials/main/about",
+    },
+  });
+});
+
+server.get("/landing", (req, res) => {
+  res.render("index", {
+    locals: {
+      title: "Video Server 203",
+      navs
+    },
+    partials: {
+      footer: "partials/footer",
+      header: "partials/header",
+      main: "partials/main/landing",
     },
   });
 });

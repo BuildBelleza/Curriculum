@@ -1,6 +1,7 @@
-<nav id="navs-container">
-  <a href="/" class="navs-item">Home</a>
-  <a href="/gallery" class="navs-item">Gallery</a>
-  <a href="/about" class="navs-item">About</a>
-  <a href="/contact-us" class="navs-item">Contact Us</a>
+
+
+<nav class="navs-container">
+  ${navs.map(nav => `
+  <a href="${nav.href}" class="navs-item">${nav.name}</a>
+  `).join('')}
 </nav>
