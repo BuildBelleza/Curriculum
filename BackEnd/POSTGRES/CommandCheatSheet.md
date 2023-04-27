@@ -18,9 +18,7 @@ Here are some essential psql commands that you can use in the command-line inter
 
 These are just some of the most commonly used commands in psql. There are many more commands available, and you can find a full list by typing `\?` in the psql command prompt.
 
-
-********************************************************************************************************************************
-
+---
 
 Here are some essential database commands that you can use to manage and interact with databases:
 
@@ -42,4 +40,4 @@ Here are some essential database commands that you can use to manage and interac
 16. `REVOKE <privileges> ON <table> FROM <user>` - Revoke permissions from a user on a table
 17. `SHOW GRANTS FOR <user>` - Display the permissions granted to a user
 
-These are just some of the most commonly used database commands. 
+These are just some of the most commonly used database commands.
