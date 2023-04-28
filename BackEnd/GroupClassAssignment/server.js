@@ -28,6 +28,19 @@ server.get("/heartbeat", (req, res) => {
   res.json({ is: "working" });
 });
 
+server.get('/employees', async (req, res) => {
+  const employees = await getEmployees();
+  res.json({
+    employees
+
+  })
+});
+
+async function getEmployees() {
+  const employees = await db.any('select * from employees', [true]);
+  return employees;
+}
+
 server.listen(8080, () => {
   console.log("The server is listening at PORT 8080");
 });
