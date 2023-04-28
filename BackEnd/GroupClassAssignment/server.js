@@ -8,7 +8,7 @@ const server = express();
 const cn = {
   host: 'localhost',
   port: 5432,
-  database: 'mockcompany',
+  database: 'digitalCrafts',
   user: 'postgres',
   password: 'test',
   allowExitOnIdle: true
