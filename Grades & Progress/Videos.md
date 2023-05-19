@@ -92,21 +92,21 @@
 
 <br>
 
-# Week 14
+# Week 18
 
-| Video Assignment | Viewed |
-| ---------------- | :----: |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
-|                  |   %    |
+|      Video Assignment      | Viewed |
+| -------------------------- | :----: |
+| REACT 301                  |  100%  |
+| REACT 302                  |  100%  |
+| Redux 101                  |  100%  |
+| REACT App Journey          |  100%  |
+| REACT App Journey #2       |  100%  |
+| REACT App Journey #3       |   %    |
+| REACT App Journey #4       |   %    |
+| REACT App Journey #5       |   %    |
+| REACT App Journey #6       |   %    |
+| REACT App Journey #7       |   %    |
+| REACT App Journey #8       |   %    |
 
 # Week 10
 
