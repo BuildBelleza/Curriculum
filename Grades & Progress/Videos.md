@@ -101,8 +101,8 @@
 | Redux 101                  |  100%  |
 | REACT App Journey          |  100%  |
 | REACT App Journey #2       |  100%  |
-| REACT App Journey #3       |   %    |
-| REACT App Journey #4       |   %    |
+| REACT App Journey #3       |  100%  |
+| REACT App Journey #4       |  100%  |
 | REACT App Journey #5       |   %    |
 | REACT App Journey #6       |   %    |
 | REACT App Journey #7       |   %    |
