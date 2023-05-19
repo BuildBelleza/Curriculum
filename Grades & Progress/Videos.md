@@ -108,7 +108,7 @@
 | REACT App Journey #7       |   %    |
 | REACT App Journey #8       |   %    |
 
-# Week 10
+# Week 
 
 | Video Assignment | Viewed |
 | ---------------- | :----: |
@@ -124,7 +124,7 @@
 |                  |   %    |
 |                  |   %    |
 
-# Week 11
+# Week 
 
 | Video Assignment | Viewed |
 | ---------------- | :----: |
@@ -140,7 +140,7 @@
 |                  |   %    |
 |                  |   %    |
 
-# Week 12
+# Week 
 
 | Video Assignment | Viewed |
 | ---------------- | :----: |
@@ -156,7 +156,7 @@
 |                  |   %    |
 |                  |   %    |
 
-# Week 13
+# Week 
 
 | Video Assignment | Viewed |
 | ---------------- | :----: |
