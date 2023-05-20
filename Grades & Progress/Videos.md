@@ -99,14 +99,14 @@
 | REACT 301                  |  100%  |
 | REACT 302                  |  100%  |
 | Redux 101                  |  100%  |
-| REACT App Journey          |  100%  |
-| REACT App Journey #2       |  100%  |
-| REACT App Journey #3       |  100%  |
-| REACT App Journey #4       |  100%  |
-| REACT App Journey #5       |   %    |
-| REACT App Journey #6       |   %    |
-| REACT App Journey #7       |   %    |
-| REACT App Journey #8       |   %    |
+| REACT App Journey: Final Product |  100%  |
+| REACT App Journey: Create new REACT App with Vite      |  100%  |
+| REACT App Journey: Dependencies/Bootstrap Setup     |  100%  |
+| REACT App Journey: Basic Component Setup && Routes Implemented      |  100%  |
+| REACT App Journey: NavBar & Footer Setup       |  100%  |
+| REACT App Journey:Error, Home, & Contact.jsx       |   %    |
+| REACT App Journey: Contact Update & About Component      |   %    |
+| REACT App Journey:Projects Component - FINAL       |   %    |
 
 # Week 
 
