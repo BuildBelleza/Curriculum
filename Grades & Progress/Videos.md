@@ -104,9 +104,9 @@
 | REACT App Journey: Dependencies/Bootstrap Setup     |  100%  |
 | REACT App Journey: Basic Component Setup && Routes Implemented      |  100%  |
 | REACT App Journey: NavBar & Footer Setup       |  100%  |
-| REACT App Journey:Error, Home, & Contact.jsx       |   %    |
-| REACT App Journey: Contact Update & About Component      |   %    |
-| REACT App Journey:Projects Component - FINAL       |   %    |
+| REACT App Journey: Error, Home, & Contact.jsx       |  100%  |
+| REACT App Journey: Contact Update & About Component      |  100%  |
+| REACT App Journey: Projects Component - FINAL       |  100%  |
 
 # Week 
 
