@@ -50,14 +50,14 @@ dealButton.addEventListener("click", () => {
   const dealerHand = document.getElementById("dealer-cards");
 
   function dealPlayer() {
-    const playerCard = ["./images/back.png"];
+    const playerCard = [value + "-" + type + ".png", "./images"];
     const imgTag = document.createElement("img");
     imgTag.src = playerCard[0];
     playerHand.appendChild(imgTag);
   }
 
   function dealDealer() {
-    const dealerCard = ["./images/back.png"];
+    const dealerCard = ["./images"];
     const imgTag = document.createElement("img");
     imgTag.src = dealerCard[0];
     dealerHand.appendChild(imgTag);
@@ -79,7 +79,7 @@ hitButton.addEventListener("click", () => {
   const dealerHand = document.getElementById("dealer-cards");
 
   function hitPlayer() {
-    const playerCard = ["./images/back.png"];
+    const playerCard = [value + "-" + type + ".png", "./images"];
     const imgTag = document.createElement("img");
     imgTag.src = playerCard[0];
     playerHand.appendChild(imgTag);
@@ -117,7 +117,7 @@ function startGame() {
     let card = deck.pop();
     cardImg.src = "./images/" + card + ".png";
     dealerSum += getValue(card);
-    dealerAceCount += chackAce(card);
+    dealerAceCount += checkAce(card);
     document.getElementById("dealer-cards").append(cardImg);
   }
   console.log(dealerSum);

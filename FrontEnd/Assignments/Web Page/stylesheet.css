@@ -30,3 +30,23 @@ p {
 footer {
   text-align: center;
 }
+
+.container {
+  display: flex;
+  flex-direction: row;
+  column-gap: 10px;
+  height: 75px;
+ 
+
+}
+
+.gallery {
+  flex: 1;
+  flex-basis: 100px;
+  flex-grow: 1;
+  flex-shrink: 1;
+  flex-wrap: wrap;
+  flex-direction: row;
+  column-gap: 10px;
+  height: 75px;
+}
